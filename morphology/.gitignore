@@ -10,3 +10,9 @@
 /Release-Notes
 /.get_treetagger.sh.swp
 /.ipynb_checkpoints
+/corpus_train.txt
+/corpus_test.txt
+/lexicon.txt
+/model_oc
+/open_class
+/output.txt
